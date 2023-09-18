@@ -75,5 +75,5 @@
 
 ## 📝 Latest Blog Posts
 
-- [Analising Music Lyrics with Python](https://brenoimatos.medium.com/quem-tem-o-maior-vocabul%C3%A1rio-do-rap-nacional-ddbbdc902779)
+- [Analizing Music Lyrics with Python](https://brenoimatos.medium.com/quem-tem-o-maior-vocabul%C3%A1rio-do-rap-nacional-ddbbdc902779)
 
