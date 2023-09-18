@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/brenoimatos/github-readme-streak-stats" title="Go to Source">
-    <img align="center" height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=brenoimatos&theme=dracula&hide_border=false" alt="brenoimatos">
+    <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=brenoimatos&theme=dracula&hide_border=false" alt="brenoimatos">
   </a>
   <a href="https://github.com/brenoimatos">
-    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoimatos&layout=donut&theme=dracula">
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoimatos&layout=donut&theme=dracula">
   </a>
 </p>
 
