@@ -25,7 +25,7 @@
 ## 🛠 Skill Set  
 <table border="1"><tr><td valign="top" width="33%">
 
-### Frontend  
+### **Frontend**  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -38,7 +38,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### **Backend**  
 <div align="center">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" /></a>  
@@ -49,7 +49,7 @@
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+### **DevOps**  
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://d1.awsstatic.com/PTNR_AWS_logo_300x300_BWColor.8a63bc4699377744833f0da71b08acc09bc1b85c.png" alt="AWS" height="50" /></a>  
