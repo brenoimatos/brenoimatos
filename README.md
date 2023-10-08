@@ -1,6 +1,6 @@
 # Hello, I'm Breno 👋
 
-## 🧑🏽 About Me
+## About Me
 
 - 🔭 I’m working on [Banca Ingressos](https://bancaingressos.com/)
 - 🌱 I’m currently learning React and DSA
