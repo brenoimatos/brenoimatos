@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🔭 I’m working on [Banca Ingressos](https://bancaingressos.com/)
-- 🌱 I’m currently learning React and DSA
+- 🔭 I’m working on [DSA Patterns Recognition](https://github.com/brenoimatos/dsa-patterns-recognition)
+- 🌱 I’m currently learning Next and DSA
 
 
 <br>
@@ -68,6 +68,9 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/brenoimatos/credit-decision" title="Credit Decision Engine">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoimatos&repo=credit-decision&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="left" href="https://github.com/brenoimatos/ticket-trade" title="Banca Ingressos">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoimatos&repo=ticket-trade&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
