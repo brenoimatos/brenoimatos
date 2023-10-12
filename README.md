@@ -3,7 +3,7 @@
 ## About Me
 
 - 🔭 I’m working on [DSA Patterns Recognition](https://github.com/brenoimatos/dsa-patterns-recognition)
-- 🌱 I’m currently learning Next and DSA
+- 🌱 I’m currently learning Next and Typescript
 
 
 <br>
