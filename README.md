@@ -18,10 +18,6 @@
 </p>
 
 
-
-
-
-
 ## 🛠 Skill Set  
 <table border="1"><tr><td valign="top" width="33%">
 
